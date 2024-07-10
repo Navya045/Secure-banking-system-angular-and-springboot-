@@ -29,5 +29,5 @@ This project is a comprehensive banking application built using Angular for the 
   ### ng serve
 - Open http://localhost:4200 in your browser.
 
-License
+License:
 This project is licensed under the MIT License. See the LICENSE file for more details.
