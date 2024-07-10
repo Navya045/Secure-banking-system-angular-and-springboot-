@@ -12,13 +12,22 @@ This project is a comprehensive banking application built using Angular for the 
 - Tools: Maven, Git, Postman.
 # Getting Started:
 1. Clone the repository:
-   git clone https://github.com/Navya045/Secure-Banking-System-Angular-SpringBoot.git
-   cd Secure-Banking-System-Angular-SpringBoot
+  # git clone https://github.com/Navya045/Secure-Banking-System-Angular-SpringBoot.git
+# cd Secure-Banking-System-Angular-SpringBoot
 2. Backend Setup:
-   Navigate to the backend directory:
-   cd backend
-
+  - Navigate to the backend directory:
+  # cd backend
    - Update application.properties with your database credentials.
    - Build and run the application:
-mvn clean install
-mvn spring-boot:run
+# mvn clean install
+# mvn spring-boot:run
+3. Frontend Setup:
+  - Navigate to the frontend directory:
+    # cd frontend
+- Install npm packages and run the application:
+  # npm install
+  # ng serve
+- Open http://localhost:4200 in your browser.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
