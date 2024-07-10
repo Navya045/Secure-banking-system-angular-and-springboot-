@@ -12,8 +12,8 @@ This project is a comprehensive banking application built using Angular for the 
 - Tools: Maven, Git, Postman.
 # Getting Started:
 1. Clone the repository:
-  # git clone https://github.com/Navya045/Secure-Banking-System-Angular-SpringBoot.git
-# cd Secure-Banking-System-Angular-SpringBoot
+  ## git clone https://github.com/Navya045/Secure-Banking-System-Angular-SpringBoot.git
+## cd Secure-Banking-System-Angular-SpringBoot
 2. Backend Setup:
   - Navigate to the backend directory:
   # cd backend
